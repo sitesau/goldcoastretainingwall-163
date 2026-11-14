@@ -1,0 +1,22 @@
+{
+  "wheel_id": 890,
+  "structure": "umbrella",
+  "slug": "goldcoastretainingwall-163",
+  "project": "retaining-walls-gold-coast-budget-tips-491e165f872de317a812482a",
+  "parent_t1_ref": "goldcoastretainingwall-018",
+  "node_role": "buffer",
+  "money_target": "goldcoastretainingwall.net.au",
+  "primary_kw": "retaining walls gold coast budget tips",
+  "intended_url": "https://sitesau.github.io/goldcoastretainingwall-163/",
+  "tier": "T2",
+  "writeback_nonce": "a93c19072fba01a8",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retaining-walls-gold-coast-goldcoastretainingwall-018/",
+      "anchor": "more on retaining walls gold coast",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
